@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 __author__    = 'cmpone'
-__email__     = 'cmpone[at]blackarch[dot]com'
+__email__     = 'cmpone[at]blackarch[dot]org'
 __license__   = 'BSD'
 __version__   = 'PROD'
 __date__      = '17/08/2020'
